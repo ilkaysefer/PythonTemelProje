@@ -1,5 +1,4 @@
 l = [[1, 2], [3, 4], [5, 6, 7]]
-# l = [1, 2, 3, 4, 5, 6, 7]
 
 def reverseList(main_list):
     left = 0
@@ -18,6 +17,3 @@ for i in range(len(l)):
 
 res = reverseList(l)
 print(res)
-
-
-
